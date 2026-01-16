@@ -2,7 +2,7 @@
 
 基于 Astro + React 开发的现代化扫雷游戏，具有精美的视觉效果、流畅的动画和丰富的游戏功能。
 
-![Minesweeper Pro](https://img.shields.io/badge/Astro-4.x-orange) ![React](https://img.shields.io/badge/React-18.x-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Minesweeper Pro](https://img.shields.io/badge/Astro-4.x-orange) ![React](https://img.shields.io/badge/React-18.x-blue) ![License](https://img.shields.io/badge/License-AGPL3.0-green)
 
 ## 功能特性
 
